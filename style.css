@@ -1,0 +1,38 @@
+
+#principal{
+    width: 1217px;
+    text-align: center;
+    background: #dbb6ee;
+    padding: 18px;
+    font-weight: bold;
+    font-size: 1,2em
+    color: #fff;
+    display: block;
+}
+
+
+.home{
+    background: #BCA9F5;
+    width: 1253px;
+    height: 1500px;
+}
+
+.direito{
+    width: 1217px;
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+.conteudo{
+    background: #dbb6ee;
+    border: 1px solid gray;
+    width: 250px;
+    height: 350px;
+    margin: 10px;
+    float: left;
+}
+
+.presentear{
+    background: #BE81F7;
+    font-weight: bold;
+}
